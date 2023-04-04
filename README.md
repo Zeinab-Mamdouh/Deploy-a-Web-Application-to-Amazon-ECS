@@ -1,8 +1,8 @@
 # Deploying a Web Application to Amazon ECS with:
 
-##EC2  | Docker | ECR | Fargate | LoadBalancer
+## EC2  | Docker | ECR | Fargate | LoadBalancer
 
-##Flow of Execution:
+## Flow of Execution:
 
 Step1:
   - Create EC2 - VPC - Pub and Priv Subnets - IGW - SG - S3 - EBS Volume Using Terraform
