@@ -19,3 +19,5 @@ Step4:
   - Create Task Definition | Create AWS ECS Cluster | Create Service
 Step4: 
   - Validation
+ 
+ ![Screenshot](screenshot.png)
